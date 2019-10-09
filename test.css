@@ -1,0 +1,19 @@
+body{
+ background-color:red;
+	}
+
+	button {
+  background-color: red;
+  font-size: 50px;
+  border: none;
+	border-image: url(bos3.jpg) 30 round;
+
+}
+
+h1 { color:red;
+	text-align:center middle;
+	font-size:100px;
+	font-family: 'Nosifer', cursive;
+}
+
+
